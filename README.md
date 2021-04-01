@@ -1,0 +1,3 @@
+# GEOMAR (open!) Hacky Hour materials from 2021-04 to ...
+
+This is a loose collection of the materials we're working on in the regular GEOMAR hacky hours.
